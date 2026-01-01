@@ -7,6 +7,23 @@
 
 </div>
 
+<h3>
+  <details>
+    <summary>Превью</summary>
+    <table>
+      <tr>
+        <td><img src='png/глменю.png' width='268' alt='Главное меню'></td>
+        <td><img src='png/проц.png' width='268' alt='Вкладка процессы'></td>
+        <td><img src='png/служ.png' width='268' alt='Вкладка службы'></td>
+      </tr>
+      <tr>
+        <td><img src='png/реестр.png' width='268' alt='Вкладка реестра'></td>
+        <td><img src='png/инстр.png' width='268' alt='Вкладка с инструментами'></td>
+      </tr>
+    </table>
+  </details>
+</h3>
+
 ## 🔧 Возможности
 
 - Диспетчер задач 
@@ -14,3 +31,10 @@
 - Просмотр служб
 - Разблокировка политик
 - Сторонние утилиты
+
+### Социальные сети
+
+- [Telegram](https://t.me/edvardcodetg)
+- [Twitch](https://www.twitch.tv/edvardcode)
+- [YouTube](https://www.youtube.com/@edvardcode)
+- [Сайт](https://edvardcode.vercel.app/)
