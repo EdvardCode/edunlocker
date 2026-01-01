@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="edunlocker.png" width="300px" height="300px">
+<img src="edunlocker.png" width="200px" height="200px">
 
 # EdUnlocker
 **EdUnlocker** - Программа **"Мултитул"** предназначенная для простой разблокировки Windows от вирусов.
@@ -12,13 +12,13 @@
     <summary>Превью</summary>
     <table>
       <tr>
-        <td><img src='png/глменю.png' width='268' alt='Главное меню'></td>
-        <td><img src='png/проц.png' width='268' alt='Вкладка процессы'></td>
-        <td><img src='png/служ.png' width='268' alt='Вкладка службы'></td>
+        <td><img src='png/глменю.png' width='400' alt='Главное меню'></td>
+        <td><img src='png/проц.png' width='400' alt='Вкладка процессы'></td>
+        <td><img src='png/служ.png' width='400' alt='Вкладка службы'></td>
       </tr>
       <tr>
-        <td><img src='png/реестр.png' width='268' alt='Вкладка реестра'></td>
-        <td><img src='png/инстр.png' width='268' alt='Вкладка с инструментами'></td>
+        <td><img src='png/реестр.png' width='400' alt='Вкладка реестра'></td>
+        <td><img src='png/инстр.png' width='400' alt='Вкладка с инструментами'></td>
       </tr>
     </table>
   </details>
