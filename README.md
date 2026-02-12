@@ -37,4 +37,4 @@
 - [Telegram](https://t.me/edvardcodetg)
 - [Twitch](https://www.twitch.tv/edvardcode)
 - [YouTube](https://www.youtube.com/@edvardcode)
-- [Сайт](https://edvardcode.vercel.app/)
+- [Сайт](https://edvardcode.rf.gd/)
